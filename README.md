@@ -1,5 +1,14 @@
 # CSS - learning path
 
+## To remove default css
+
+```
+*{
+    margin: 0;
+    padding: 0;
+}
+```
+
 ## CSS Box Model - Margin, Padding & Borders
 
 ## box-sizing: border-box;
