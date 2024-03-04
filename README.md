@@ -50,3 +50,11 @@
 }
 ```
 - Suppose you have done something like this then it will fall under a category called as Margin collapse where if you have 2 boxes then the one having the greatest margin will be used suppose u have ``` magin:35px ``` in box1 and ``` margin:25px ``` in box2 then the 35px will be used in the between and 25px will be ignored
+
+## To center text
+
+```
+{
+  text-align:center;
+}
+```
