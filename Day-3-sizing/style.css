@@ -10,3 +10,11 @@
     margin: auto;
     background-color: aquamarine;
 }
+.container{
+    box-sizing: border-box;
+    border: 2px solid black;
+    /* width: 233px; */
+    width: 80vw;
+    margin: 23px auto;
+    background-color: aquamarine
+}
