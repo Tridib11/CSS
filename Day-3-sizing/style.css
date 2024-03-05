@@ -18,7 +18,8 @@ html{
     border: 2px solid black;
     /* width: 233px; */
     width: 80vw;
-    height: 80vh;
+    /* height: 80vh; */
+    min-height: 80vh;
     margin: 23px auto;
     font-size: 19px;
     background-color: aquamarine
