@@ -63,3 +63,13 @@
 -Responsive
 ```80vw``` This represents 80% of the viewport's width
 ```80vh``` This denotes 80% of the viewport's height
+
+The choice between using `em` and `rem` in CSS depends on the specific use case and desired outcome. Here are some general guidelines:
+
+1. **Use `em`** when you want to scale the font size based on the parent element's font size. This is useful for creating a consistent design where certain elements should scale proportionally with their parent elements.
+
+2. **Use `rem`** when you want to maintain a fixed font size regardless of the parent element's font size. This is ideal for elements that should always have the same font size, regardless of the parent's font size.
+
+For example, if you have a navigation bar that should always have the same font size, regardless of the parent element's font size, you would use `rem`. On the other hand, if you have a heading that should scale proportionally with its parent element's font size, you would use `em`.
+
+In summary, use `em` when you want to scale font sizes based on the parent element's font size, and use `rem` when you want to maintain a fixed font size regardless of the parent element's font size.
