@@ -17,5 +17,9 @@
     width: 80vw;
     height: 80vh;
     margin: 23px auto;
+    font-size: 19px;
     background-color: aquamarine
+}
+.container p{
+    font-size: 1.5em;
 }
