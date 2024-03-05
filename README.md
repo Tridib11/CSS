@@ -58,3 +58,8 @@
   text-align:center;
 }
 ```
+
+## units
+-Responsive
+```80vw``` This represents 80% of the viewport's width
+```80vh``` This denotes 80% of the viewport's height
